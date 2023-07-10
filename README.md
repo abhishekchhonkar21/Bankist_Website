@@ -2,6 +2,10 @@
 
 This repository contains the code for the Bankist website, a modern and minimalist banking experience. The website offers various features and operations to simplify banking and provide a seamless user experience.
 
+## Try
+
+Netlify link - https://bankist-website-abhishek.netlify.app
+
 ## Screenshots
 <img width="1440" alt="Screenshot 2023-06-24 at 11 00 54 PM" src="https://github.com/abhishekchhonkar21/Bankist-Website/assets/95516886/4020b621-4837-4b03-a725-73b4ce9a973a">
 
